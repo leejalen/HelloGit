@@ -5,8 +5,8 @@ package testPack01;
  *
  * @author: leejalen
  */
-public class GitClass02 {
+public class GitClass03 {
     public static void main(String[] args) {
-        System.out.println("asa");
+        System.out.println("地山寺");
     }
 }
