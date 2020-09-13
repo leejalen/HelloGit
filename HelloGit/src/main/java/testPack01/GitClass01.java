@@ -11,5 +11,6 @@ public class GitClass01 {
         System.out.println("添加分支");
         System.out.println("你他妈有毛病");
         System.out.println("主干和分支添加同一个内容");
+        System.out.println("测试分支合并后的结果");
     }
 }
