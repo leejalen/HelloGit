@@ -13,6 +13,6 @@ public class GitClass01 {
         System.out.println("主干和分支添加同一个内容");
         System.out.println("测试分支合并后的结果");
         System.out.println("主分支在分支上传到库中之后，测试是否能上传");
-        System.out.println("22223232");
+        System.out.println("111");
     }
 }
