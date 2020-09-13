@@ -8,5 +8,6 @@ package testPack01;
 public class GitClass02 {
     public static void main(String[] args) {
         System.out.println("asa");
+        System.out.println("sas");
     }
 }
