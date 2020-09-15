@@ -27,7 +27,7 @@ public class BucketManager {
      * */
     public Bucket createBucket(String bucket_name){
         Bucket bucket = null;
-        if (S3Client.doesBucketExistV2(bucket_name)){
+        if (S3Client.doesBucketExist(bucket_name)){
             System.out.format("Bucket %s already exists.\n", bucket_name);
         } else {
             try {
