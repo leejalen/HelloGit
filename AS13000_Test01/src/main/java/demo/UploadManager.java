@@ -108,7 +108,7 @@ public class UploadManager {
                 partETags);
 
         CompleteMultipartUploadResult ret = S3Client.completeMultipartUpload(compRequest);
-
+        System.out.println("分片上传文件成功");
         return uploadId;
     }
 
