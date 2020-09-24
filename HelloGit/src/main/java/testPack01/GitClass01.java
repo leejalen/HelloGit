@@ -16,5 +16,6 @@ public class GitClass01 {
         System.out.println("是到处撒");
         System.out.println("3333");
         System.out.println("saxsa");
+        System.out.println("在跟新一次");
     }
 }

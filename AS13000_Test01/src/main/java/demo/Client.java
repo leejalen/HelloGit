@@ -27,7 +27,7 @@ public class Client {
 
         ClientConfiguration clientConfiguration = new ClientConfiguration();
         clientConfiguration.setSignerOverride("S3SignerType");
-        clientConfiguration.setProtocol(Protocol.HTTP);
+        clientConfiguration.setProtocol(Protocol.HTTPS);
 
         AWSCredentials awsCredentials = new BasicAWSCredentials(access_key, secret_key);
         S3Client=new AmazonS3Client(awsCredentials, clientConfiguration);

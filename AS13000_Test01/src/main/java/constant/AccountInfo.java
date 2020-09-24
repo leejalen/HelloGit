@@ -7,7 +7,7 @@ package constant;
  */
 public class AccountInfo {
 
-    public static final String access_key = "UA8AHV0A3Y6BNVIFX0O8";
-    public static final String secret_key = "NCIQR13ktyM6Nxfx2AFd1Bv3x7ywYHNqBXHHiNrM";
-    public static final String endPoint = "10.59.11.75:8009";
+    public static final String access_key = "AKIAIOSFODNN7EXAMPLE";
+    public static final String secret_key = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY";
+    public static final String endPoint = "http://object.tpay.tech/";
 }
